@@ -1,0 +1,2 @@
+# Lucifer
+software configuration management
