@@ -3,5 +3,8 @@
 {
 void main()
 int a, b;
-printf("enter the numbers")
+printf("enter the 1st number");
+scanf(%d &"a");
+printf("enter the 2nd number");
+scanf(%d &"b");
 }
